@@ -33,3 +33,9 @@ A student wants to compare second-hand campus items, find an affordable listing 
 
 Your redesign should support the scenario above without removing or weakening the existing features.
 
+
+## UI/UX redesign
+
+The redesign adds a maximum-budget filter, availability filters, a **My listings** view and comparison of up to three items. Select **Compare** on listing cards, then open the comparison bar. Existing search, category filters, price sorting, item photos, contact-by-email, create/edit, sold status and browser persistence are retained.
+
+The forms provide field-specific errors; dialogs support keyboard navigation and Escape. Reset demo asks before replacing local changes. See [UX_NOTES.md](UX_NOTES.md) for design decisions, common AI interface pitfalls, research links and validation notes.
